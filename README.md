@@ -19,7 +19,6 @@ It supports 8 and 16 bit format.
 
 
 Block Diagram
-image image
+
 
 Timing diagram / CPOL, CPHA
-image
